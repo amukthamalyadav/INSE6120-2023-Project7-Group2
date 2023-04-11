@@ -1,1 +1,3 @@
 # INSE6120-2023-Project7-Group2
+
+Our team is currently working on a survey about two prominent cryptocurrencies, Monero and ZCash. Both Monero and ZCash are well-known for their robust privacy features, which let users make transactions without disclosing their names or transaction data. Our team's goal is to collect data from people who have used or are presently using various cryptocurrencies in order to better understand their usage patterns, motives, and issues. Our team intends to obtain information from the survey that will help enhance the usability, acceptance, and security of Monero and ZCash.
